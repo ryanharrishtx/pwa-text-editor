@@ -1,6 +1,6 @@
 # PWA Text Editor
 ## Description
-This is a text editor application that allows you to create notes or code snippets with or without an internet connection. The application uses IndexedDB to store the data locally and will sync with the server when the application is back online. The application also uses a service worker to cache the application and make it available offline. The application is deployed on Render and can be found [here](https://pwa-text-editor.onrender.com/).
+This is a text editor application that allows you to create notes or code snippets with or without an internet connection. The application uses IndexedDB to store the data locally and will sync with the server when the application is back online. The application also uses a service worker to cache the application and make it available offline. The application is deployed on Render and can be found [here](https://pwa-text-editor-jyq6.onrender.com/).
 
 ## User Story
 AS A developer
